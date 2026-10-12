@@ -1,4 +1,4 @@
-# Projeto para a cadeira de Programação para Jogos 2026.1 
+# Projeto para a cadeira de Programação para Jogos 2026.2
 
 ## Nome do jogo: Heritage (Herança)
 
