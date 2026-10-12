@@ -2,7 +2,9 @@
 
 ## Nome do jogo: Heritage (Herança)
 
-### Grupo: 
+Heritage é um protótipo de jogo de plataforma 2D JRPG inspirado na lore do jogo TUNIC, com um sistema de poderes envolvendo forças e fraquezas elementais similar à Pokémon.
+
+## Grupo: 
 ### Samuel de Castro Falcão - Matrícula 53778
 
 ## Índice
