@@ -3,4 +3,4 @@
 ## Nome do jogo: Heritage (Herança)
 
 ### Grupo: 
-### Samuel de Castro Falcão - Matrícula 53778
+### - Samuel de Castro Falcão - Matrícula 53778
