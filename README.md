@@ -6,9 +6,9 @@
 ### Samuel de Castro Falcão - Matrícula 53778
 
 ## Índice
-- Assets
-- Componentes
-- Docs
-- Entidades
-- SGDD
-- src (Código Fonte)
+- [Assets](https://github.com/SamuelCFalcao/Heritage/tree/main/Assets)
+- [Componentes](https://github.com/SamuelCFalcao/Heritage/tree/main/componentes)
+- [Docs](https://github.com/SamuelCFalcao/Heritage/tree/main/docs)
+- [Entidades](https://github.com/SamuelCFalcao/Heritage/tree/main/entidades)
+- [SGDD](https://github.com/SamuelCFalcao/Heritage/tree/main/SGDD)
+- [src (Código Fonte)](https://github.com/SamuelCFalcao/Heritage/tree/main/src)
